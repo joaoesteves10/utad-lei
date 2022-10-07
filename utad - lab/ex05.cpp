@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
-
-// 5. Escreva um programa que leia através do teclado valores de horas no formato hora, minuto e os
-// converta para segundos.
+/* 5. Escreva um programa que leia através do teclado valores de horas no formato
+hora, minuto e os converta para segundos. */
 
 int main()
 {

@@ -3,8 +3,9 @@
 #include <time.h>       /* time */
 #include <locale.h>
 #include <math.h>
-/* 10. Escreva um programa que gere aleatoriamente um inteiro designativo do dia da semana (1 a 7) e
-apresente no ecrã a designação desse dia. Exemplo: 6 deve aparecer sexta. */
+/* 10. Escreva um programa que gere aleatoriamente um inteiro designativo do dia
+da semana (1 a 7) e apresente no ecrã a designação desse dia.
+Exemplo: 6 deve aparecer sexta. */
 
 int main()
 {
