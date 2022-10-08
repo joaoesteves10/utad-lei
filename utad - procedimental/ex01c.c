@@ -20,8 +20,8 @@ int main()
 
   // verifica se o numero é valido ou não
   if (lado <= 0){
-    printf("Introduza um numero valido");
-    return 1;
+		printf("Introduza um numero valido");
+		return 1;
   }
 
 	// calcular a área de um quadrado
