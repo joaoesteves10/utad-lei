@@ -8,7 +8,7 @@ b) O valor do lado deverá ser pedido ao utilizador.
 
 int main()
 {
-	//	locale em português para os acentos funcionarem corretamente
+	// locale em português para os acentos funcionarem corretamente
 	setlocale(LC_ALL, "Portuguese");
 
 	// declaração de variáveis
