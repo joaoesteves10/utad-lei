@@ -39,7 +39,7 @@ int main()
   else if (16 <= nota && nota < 18) {printf("muito bom");}
   else if (18 <= nota && nota < 20) {printf("excelente");}
 
-  else if (nota == 20) {printf("20 mano boa");}
+  else if (nota == 20) {printf("20 boa mano");}
   else {printf("nota inválida");}
 
   return 0;
