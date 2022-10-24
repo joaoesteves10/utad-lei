@@ -14,7 +14,7 @@ int main()
   /* gera um número aleatório
   https://cplusplus.com/reference/cstdlib/rand/ */
   srand(time(NULL));
-  int numero = rand() % 1000; // de 0 a 1000 (porque sim)
+  int numero = rand() % 1000 + 1; // de 0 a 1000 (porque sim)
   printf("número gerado: %d\n", numero);
 
   if (numero % 3 == 0) {
