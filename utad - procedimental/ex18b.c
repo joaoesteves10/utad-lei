@@ -4,17 +4,17 @@
 #include <time.h>       /* time */
 /* 18. Implemente um programa que indique se um determinado número aleatório é
 divisível por 3. */
-/* como o enunciado é confuso, em (a) vou fazer para um número aleatório e em
-(b) para um número introduzido pelo utilizador */
+/* como o enunciado é confuso, em (a) vou fazer para um número introduzido pelo
+utilizador e em (b) para um número aleatório */
 
 int main()
 {
   setlocale(LC_ALL, "Portuguese");
 
-  /* gera um número aleatório entre 1 e 7
+  /* gera um número aleatório
   https://cplusplus.com/reference/cstdlib/rand/ */
   srand(time(NULL));
-  int numero = rand() % 1000; // número aleatório de 0 a 1000 (porque sim)
+  int numero = rand() % 1000; // de 0 a 1000 (porque sim)
   printf("número gerado: %d\n", numero);
 
   if (numero % 3 == 0) {

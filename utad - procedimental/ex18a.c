@@ -2,8 +2,8 @@
 #include <locale.h>
 /* 18. Implemente um programa que indique se um determinado número aleatório é
 divisível por 3. */
-/* como o enunciado é confuso, em (a) vou fazer para um número aleatório e em
-(b) para um número introduzido pelo utilizador */
+/* como o enunciado é confuso, em (a) vou fazer para um número introduzido pelo
+utilizador e em (b) para um número aleatório */
 
 int main()
 {
