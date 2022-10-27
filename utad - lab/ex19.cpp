@@ -72,7 +72,6 @@ int main() {
   }
 
   switch (menu) {
-
     case 1: printf("------\n%f", adicao(a, b)); break;
     case 2: printf("------\n%f", multiplicacao(a, b)); break;
     case 3: printf("------\n%f", subtracao(a, b)); break;
