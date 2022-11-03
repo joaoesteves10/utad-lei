@@ -24,6 +24,9 @@ void fun(int a, int b, int dx) {
 int main() {
   setlocale(LC_ALL, "Portuguese");
 
-  fun(1, 50, 1);
+  int a, b, dx;
+  printf("Insira os valores (a, b, dx): ");
+  scanf_s("%d, %d, %d", &a, &b, &dx);
+  fun(a, b, dx);
   return 0;
 }
