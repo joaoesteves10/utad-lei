@@ -1,13 +1,12 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdlib.h>
-
-#include <math.h>
-#define PI 3.14159265
 /* Escreva um programa que simule uma máquina de calcular simples. Crie um
 menu e use obrigatoriamente funções. (primeira versão: adição, multiplicação,
 subtração e divisão; depois atualizar com fatorial, potencia, seno, cosseno, raiz
 quadrada) */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#define PI 3.14159265
 
 float adicao(float a, float b) {
   return (a + b);
@@ -53,7 +52,7 @@ float cosseno(float a) {
 }
 
 int main() {
-  setlocale(LC_ALL, "Portuguese");
+
 
   int menu = 0;
   float a, b;

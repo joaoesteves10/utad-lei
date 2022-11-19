@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
 /* 8. Uma empresa tem para um determinado funcionário uma ficha contendo o nome,
 número de horas trabalhadas e o número de dependentes de um funcionário.
 Considere que:
@@ -11,9 +9,9 @@ trabalhadas e o número de dependentes de um funcionário. Após a leitura, escr
 qual o nome, o salário bruto, os valores descontados para cada tipo de imposto e
 finalmente qual o salário líquido do funcionário. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   char nome[50];
 	int horas, dependentes;

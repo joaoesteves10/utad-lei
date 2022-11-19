@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
 /* 7. O preço de um automóvel é calculado pela soma do preço de fábrica com o
 preço dos impostos (45% do preço de fábrica) e a percentagem do revendedor
 (28% do preço de fábrica).
@@ -7,9 +5,9 @@ preço dos impostos (45% do preço de fábrica) e a percentagem do revendedor
 Implemente um programa que leia o nome do automóvel e o preço de fábrica e que
 imprima o nome do automóvel e o preço final. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   char nome[20];
 	float precoFabrica;

@@ -1,13 +1,12 @@
-#include <stdio.h>
-#include <locale.h>
-#include <string.h>
 /* 60. Escreva o código de um programa que peça ao utilizador para introduzir o
 nome e o sobrenome e que construa e apresente no ecrã uma string com o nome
 completo. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+
   char nome[20], sobrenome[20];
 
   printf("nome: ");

@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
 /* 5. Escreva um programa que leia através do teclado valores de horas no formato
 hora, minuto e os converta para segundos. */
 
+#include <stdio.h>
+
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
-
+  
     int horas, minutos;
 
     printf("Insira os valores no formato \"horas, minutos\":\n> ");

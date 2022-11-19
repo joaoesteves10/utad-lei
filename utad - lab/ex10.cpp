@@ -1,15 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>     /* srand, rand */
-#include <time.h>       /* time */
-#include <locale.h>
-#include <math.h>
 /* 10. Escreva um programa que gere aleatoriamente um inteiro designativo do dia
 da semana (1 a 7) e apresente no ecrã a designação desse dia.
 Exemplo: 6 deve aparecer sexta. */
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
 
   /* gera um número aleatório entre 1 e 7
   https://cplusplus.com/reference/cstdlib/rand/ */

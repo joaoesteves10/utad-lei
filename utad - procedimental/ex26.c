@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 26. Implemente um programa que repita a mensagem “Introduza a Letra ‘a’” até
 que se verifique a sua inserção. */
 
+#include <stdio.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
 
   char a;
 

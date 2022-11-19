@@ -1,15 +1,12 @@
-#include <stdio.h>
-#include <locale.h>
 /* 23. Implemente um programa que faça uma conversão entre Euros e Dólares ou
 vice-versa consoante a preferência do utilizador. O utilizador deve primeiro
 escolher o tipo de conversão e depois inserir o valor a converter.
 1,00 € = 1,16 $ */
 
+#include <stdio.h>
+
 int main()
 {
-  /* por algum motivo, o locale português usa , como separador decimal, eu não
-  uso e o meu compilador não aceita acentos e não, mesmo com o locale certo
-  setlocale(LC_ALL, "Portuguese"); */
 
   int menuOption = 0;
   float valor;
@@ -17,7 +14,7 @@ int main()
   printf("VALOR A CONVERTER: ");
   scanf_s("%f", &valor);
 
-  // não era para fazer com estruturas de repetição mas eu fiz porque não sabia
+  // não era para fazer com loop mas eu fiz na mesma ¯\_(ツ)_/¯
   while (1) {
 
     printf("Converter\n1. EURO para DÓLAR\n2. DÓLAR para EURO\n?: ");

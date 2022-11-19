@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 24. Implemente um programa que permita efetuar a soma dos 180 primeiros
 números inteiros positivos. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
+
 
   int soma = 0, i;
 

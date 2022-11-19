@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 6. Escreva um programa que peça ao utilizador um valor em dias e os converta
 para anos, semanas e dias (suponha que não existem anos bissextos). */
 
+#include <stdio.h>
+
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
 
     int t_dias, anos, semanas, dias;
 

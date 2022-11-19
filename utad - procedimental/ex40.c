@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 40. Implemente um programa que calcule a média de uma sequência, de valores
 reais, terminada por ‘-1’. O programa deve apresentar igualmente o número de
 valores introduzidos */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   int i = 0;
   float numero, soma, media;

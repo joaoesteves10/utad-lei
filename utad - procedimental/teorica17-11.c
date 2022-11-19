@@ -1,12 +1,12 @@
-/* n movimentos bancários
- * créditos -> dinheiro que entrou na conta
- * débitos -> dinheiro que saiu da conta
- * média -> média dos movimentos todos
- * saldo -> creditos - debitos
- */
+/* EXERCÍCIO DA AULA TEÓRICA DE PROGRAMAÇÃO PROCEDIMENTAL DO DIA 17/11/2022: BANCO
+n movimentos bancários
+créditos -> dinheiro que entrou na conta
+débitos -> dinheiro que saiu da conta
+média -> média dos movimentos todos
+saldo -> creditos - debitos */
 
 #include <stdio.h>
-#include <locale.h>
+
 #define N 5
 
 float creditos(float m[N]){
@@ -43,7 +43,7 @@ float media(float m[N]){
 
 
 int main() {
-    setlocale(LC_ALL, "Portuguese");
+  
 
     float movimentos[N];
     int op;

@@ -1,13 +1,12 @@
+/* 25. Escreva um programa que preencha aleatoriamente (com valores entre 0 e 10) uma matriz de 10x10
+e calcule e mostre no ecrã a soma de cada uma das suas linhas e de cada uma das suas colunas. */
+
 #include <stdio.h>
-#include <locale.h>
 #include <stdlib.h>
 #include <time.h>
-/* 25. Escreva um programa que preencha aleatoriamente (com valores entre 0 e
-10) uma matriz de 10x10 e calcule e mostre no ecrã a soma de cada uma das suas
-linhas e de cada uma das suas colunas. */
 
 int main() {
-  setlocale(LC_ALL, "Portuguese");
+
 
   int vetor[10][10], somaLinhas[10], somaColunas[10];
   int somaTotal = 0, somaSomas = 0; // só para ver se está certo, isto não está no enunciado

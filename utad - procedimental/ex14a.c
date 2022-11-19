@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdbool.h> // por algum motivo é preciso importar uma lib para ter bools
 /* 14. Implemente um programa que faça a classificação qualitativa de uma nota
 (valor inteiro) de um aluno segundo os seguintes níveis:
 • 0 <= nota < 5: péssimo;
@@ -11,21 +8,21 @@
 • 16 <= nota < 18: muito bom;
 • 18 <= nota <= 20: excelente; */
 
-// vamos tentar validar e pedir novamente a nota se não for válida
+// esta versão valida o valor e pede-o novamente se este não for válido
+
+#include <stdio.h>
 
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
 
   int nota;
-  bool valido = 0; // bool para o while
 
-  while (valido == 0) {
+  while (1) {
     printf("nota (int): ");
     scanf_s("%d", &nota);
 
     if (nota > 0 && nota < 20) {
-      valido = 1;
+      break;
     } else {
       (printf("valor inválido\n"));
     }
@@ -43,4 +40,5 @@ int main()
   else {printf("nota inválida");}
 
   return 0;
+
 }

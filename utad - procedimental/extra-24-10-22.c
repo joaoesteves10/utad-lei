@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdlib.h>     /* srand, rand */
-#include <time.h>       /* time */
 /* extra 24/10. jogo de adivinhar o número de 1 a 10 */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
 
   /* gera um número aleatório entre 1 e 10
   https://cplusplus.com/reference/cstdlib/rand/ */

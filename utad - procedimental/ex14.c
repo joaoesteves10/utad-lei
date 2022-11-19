@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
 /* 14. Implemente um programa que faça a classificação qualitativa de uma nota
 (valor inteiro) de um aluno segundo os seguintes níveis:
 • 0 <= nota < 5: péssimo;
@@ -10,9 +8,9 @@
 • 16 <= nota < 18: muito bom;
 • 18 <= nota <= 20: excelente; */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   int nota;
 

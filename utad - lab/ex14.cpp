@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 14. Escreva um programa que calcule mn utilizando ciclos. Os valores de m e n devem ser inteiros e
 introduzidos através do teclado. */
 
+#include <stdio.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
 
   int m, n, i;
   long int res = 1;
@@ -20,12 +19,12 @@ int main()
     res *= m;
   }
 
-/*
+  /* o ciclo for acima é equivalente a fazer:
   while (i < n) {
     res *= m;
     i++;
   }
-*/
+  */
 
   printf("------\n%ld", res);
 

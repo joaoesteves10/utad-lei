@@ -1,24 +1,26 @@
-#include <stdio.h>
-#include <locale.h>
 /* 31. Implemente um programa que permita encontrar o maior e menor número de
 uma série de números positivos fornecidos. A sequência termina com o
 número ‘0’. */
 
+#include <stdio.h>
 
-// NOT WORKING AS INTENDED !!!!!!
-
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+int main() {
 
   int numero, maior = 0, menor = 0;
 
-  printf("Insira valores positivos: \n");
+  printf("Insira inteiros positivos: \n");
 
   do {
     printf("> ");
     scanf_s("%d", &numero);
-    if (numero < 0) {printf("valor inválido pelo enunciado\n"); continue;}
+    if (numero < 0) {
+      printf("valor inválido (deve inserir um inteiro positivo)\n"); 
+      continue;
+    }
+
+    if (numero == 0) {
+      break;
+    }
 
     if (maior == 0 && menor == 0) {
 

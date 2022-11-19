@@ -1,11 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
 /* 17. Implemente um programa que, de entre três números fornecidos pelo
 utilizador, permita encontrar o maior deles. */
 
+#include <stdio.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
+
 
   float numero1, numero2, numero3;
 

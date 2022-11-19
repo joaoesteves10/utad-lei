@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdlib.h>
-#include <string.h>
 /* 23. Escreva um programa que inverta uma sequência de caracteres. Exemplo: “LABINF” deve ficar
 “FNIBAL”. */
 
+#include <stdio.h>
+#include <string.h>
+
+
 int main() {
-  setlocale(LC_ALL, "Portuguese");
 
   // vamos reservar 20 chars porque provavelmente chegam
   char sequencia[20] = "";
@@ -28,4 +27,5 @@ int main() {
   printf("%s", invertido);
 
   return 0;
+
 }

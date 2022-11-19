@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
-#include <math.h>
 /* EXTRA. Escreva um programa que leia um inteiro introduzido através do teclado
 e determine se se ele é divisível por 2, 3 e 5.
 
@@ -9,9 +6,11 @@ Enquanto para o número 6, que ele é divisível por 2 e 3. Para o 30, que ele �
 divisível por 2, 3, 5. Enquanto, caso o número dado seja o 11, que ele não é
 divisível por nenhum dos três! */
 
+#include <stdio.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
+
 
   int numero, i = 0;
 

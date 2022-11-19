@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
 /* 4. Escreva um programa que leia através do teclado valores de velocidades em
 Km/h e os converta para m/s. */
 
+#include <stdio.h>
+
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
-
+  
     int km;
 
     printf("Insira a velocidade a converter de km/h para m/s:\n> ");

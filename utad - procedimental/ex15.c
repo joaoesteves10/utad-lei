@@ -1,11 +1,9 @@
+/* 15. Implemente um programa que indique se um dado número inteiro é PAR ou IMPAR. */
+
 #include <stdio.h>
-#include <locale.h>
-/* 15. Implemente um programa que indique se um dado número inteiro é PAR ou
-IMPAR. */
 
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
 
   int numero;
 

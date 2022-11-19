@@ -1,12 +1,12 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdlib.h>
-#define N 10
 /* 24. Escreva um programa que leia através do teclado os elementos de um vetor de tamanho N e calcule
 a sua soma, média e os valores máximo e mínimo. */
 
+#include <stdio.h>
+#include <stdlib.h>
+
+#define N 10
+
 int main() {
-  setlocale(LC_ALL, "Portuguese");
 
   int vetor[N], soma;
 
@@ -29,4 +29,5 @@ int main() {
   printf("soma: %d, media: %f, maximo: %d, minimo: %d", soma, media, maximo, minimo);
 
   return 0;
+
 }

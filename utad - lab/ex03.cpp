@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
-#define pi 3.14159
 /* 3. Escreva um programa que leia através do teclado o valor do raio de um
 círculo e apresente no ecrã o seu perímetro e a sua área. */
 
+#include <stdio.h>
+#define pi 3.14159
+
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
 
     int r;
 

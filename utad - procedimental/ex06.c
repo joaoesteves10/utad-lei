@@ -1,13 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
 /* 6. Implemente um programa que peça ao utilizador um nome completo, e o
 escreva no ecrã. Considere um máximo de 20 carateres para o nome.
 Exemplo: Ana Santos */
 
-int main()
-{
-    setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
 
+int main(){
+    
     char nome[20];
 
     printf("Nome (max. 20 chars): ");
@@ -18,7 +16,7 @@ int main()
 
     /* versão alternativa:
     puts(nome);
-    o puts não suporta formatação como o printf*/
+    NOTA: o puts não suporta formatação como o printf */
     printf("-----\n%s", nome );
 
     return 0;

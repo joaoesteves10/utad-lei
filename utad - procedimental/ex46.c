@@ -1,21 +1,23 @@
-#include <stdio.h>
-#include <locale.h>
 /* 46. Implemente um programa que calcule o maior de 3 números reais inseridos
 pelo utilizador. Implemente para o efeito uma função que calcule/retorne o
 maior de dois valores reais. */
 
+#include <stdio.h>
+
 float maior(float a, float b) {
-  if (b > a) { // retorna b se b > a
+  
+  if (b > a) {
+    // retorna b se b > a
     return b;
-  } else { // retorna a se a > b ou se a = b
+  } else { 
+    // retorna a se a > b ou se a = b
     return a;
   }
+
 }
 
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+int main() {
 
   float valores[3];
 

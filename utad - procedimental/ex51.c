@@ -1,9 +1,9 @@
-#include <stdio.h>
-#include <locale.h>
 /* 51. Crie um programa que preencha um vetor V de N elementos do tipo inteiro. O
 programa deverá ter pelo menos os seguintes subprogramas:
 a. LerVetor,
 b. MostrarVetor. */
+
+#include <stdio.h>
 
 #define N 10
 
@@ -20,9 +20,7 @@ void MostrarVetor(int *vetor) {
   }
 }
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+int main() {
 
   int V[N];
 

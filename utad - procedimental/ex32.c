@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 32. Dada uma série de 20 valores reais, implemente um programa que calcule
 e escreva a média aritmética destes valores. Entretanto se a média obtida for
 maior que 20 deverá ser atribuído o valor 20 para a média. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   float valores[20], soma, media;
 

@@ -1,11 +1,9 @@
-#include <stdio.h>
-#include <locale.h>
 /* 25. Implemente um programa que permita calcular a soma dos 20 primeiros
 números pares positivos. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   int soma = 0, i;
 

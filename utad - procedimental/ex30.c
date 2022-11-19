@@ -1,11 +1,9 @@
-#include <stdio.h>
-#include <locale.h>
 /* 30. Implemente um programa que leia 30 números inteiros positivos e visualize
 o menor deles. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   int i = 0, valores[30], menor;
 

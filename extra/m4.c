@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <locale.h>
 
 void triangulo_vert(int x) {
 

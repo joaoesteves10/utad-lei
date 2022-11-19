@@ -1,13 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 5. Implemente um programa que peça ao utilizador os valores da base e da altura
 de um triângulo. Em seguida, apresente a área do mesmo.
 Obs.: Área = (Base * Altura) / 2. */
 
+#include <stdio.h>
 
-int main()
-{
-    setlocale(LC_ALL, "Portuguese");
+int main() {  
 
     int b, h;
 

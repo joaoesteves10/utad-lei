@@ -1,14 +1,12 @@
-#include <stdio.h>
-#include <locale.h>
 /* 12. Implemente um programa que converta um valor em bytes para um formato
 legível (Kilo, Mega, Giga ou Tera bytes consoante o múltiplo que melhor se
 adapte a uma representação de fácil leitura do valor). Considere 1024 bytes =
 1Kbytes
 Exemplo: 16548973 bytes = 15,78 MB */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   int i = 0;
   float bytes, convertido;

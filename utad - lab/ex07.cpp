@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <locale.h>
-#include <math.h>
 /* 7. Escreva um programa que calcule as raízes de uma equação de segundo grau.
 Considere a=3, b=11 e c=2. */
 
+#include <stdio.h>
+#include <math.h>
+
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
 
     int a, b, c;
     float resultPlus, resultMinus;
@@ -18,6 +17,8 @@ int main()
     printf("c: ");
     scanf_s("%d", &c);
 
+    // sqrt(): raiz quadrada
+    // pow(): potência
     resultPlus = (float)(-b+(sqrt(pow(b, 2)-4*a*c)))/(2*a);
     resultMinus = (float)(-b-(sqrt(pow(b, 2)-4*a*c)))/(2*a);
 

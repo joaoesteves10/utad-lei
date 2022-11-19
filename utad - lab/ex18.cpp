@@ -1,22 +1,24 @@
-#include <stdio.h>
-#include <locale.h>
 /* 18. Escreva um programa que calcule o valor do fatorial de um número natural
 n introduzido através do teclado. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
 
-  int n, result = 1;
-  printf("n: ");
-  scanf_s("%d", &n);
-
+int fatorial(int n) {
+  int result = 1;
   while (n > 0) {
     result *= n;
     n--;
   }
+  return result;
+}
 
-  printf("------\n%d",result);
+int main() {
+
+  int in;
+  printf("> ");
+  scanf_s("%d", &in);
+
+  printf("------\n%d! = %d", in, fatorial(in));
 
   return 0;
 }

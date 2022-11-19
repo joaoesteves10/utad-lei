@@ -1,12 +1,9 @@
-#include <stdio.h>
-#include <locale.h>
 /* 3. Implemente um programa que permita somar dois quaisquer números,
 visualizando o resultado obtido. */
 
+#include <stdio.h>
 
-int main()
-{
-	setlocale(LC_ALL, "Portuguese");
+int main() {
 
 	int x, y, soma;
 	

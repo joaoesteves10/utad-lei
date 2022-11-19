@@ -1,3 +1,12 @@
+/* 26. Escreva um programa que simule um jogo do galo determinando se existe vencedor ou não.
+As jogadas do jogador 1 estão marcadas com “-1”, as do jogador 2 com “1” e as casas não jogadas
+com “0”. A matriz deve ir sendo preenchida (jogadas) com valores lidos através do teclado. */
+
+/* eu fiz 1 para o primeiro jogador, 2 para o segundo e 0 para as não jogadas, e a minha resolução
+está muito mais complexa do que era pedido, porque tem um game loop que determina o vencedor assim
+que há um, em vez de no fim como no exemplo do professor, e porque tem um print-out bonito e um 
+sistema de coordenadas com letras e números para facilitar o jogo. nada disto era necessário. */
+
 #include <stdio.h>
 
 /* transforma número de player no seu respectivo char na board */

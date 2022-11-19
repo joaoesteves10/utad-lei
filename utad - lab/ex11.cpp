@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <locale.h>
-#include <math.h>
 /* 11. Uma empresa de telecomunicações cobra a utilização de uma linha dedicada
 para transmissão de dados de acordo com a duração dessa utilização, segundo a
 seguinte tabela de preços:
@@ -13,9 +10,12 @@ Tempo de utilização   |   Preço
 Escreva um programa que, partindo dos valores de início e fim da utilização
 (hora, minutos e segundos) calcule o valor a ser cobrado. */
 
+#include <stdio.h>
+#include <math.h>
+
 int main()
 {
-  setlocale(LC_ALL, "Portuguese");
+
 
   int elapsedTime, startTimeHours, startTimeMinutes, startTimeSeconds, endTimeHours, endTimeMinutes, endTimeSeconds;
   float price = 0;

@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <locale.h>
 /* 9. Implemente um programa que peça ao utilizador uma nota de avaliação
 (numérica) e que indique se o aluno está APROVADO ou REPROVADO.
 Nota: Este exercício pode ser desenvolvido para outras situações como por exemplo ORAL. */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+
+int main() {
 
   float nota;
 

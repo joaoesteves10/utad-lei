@@ -1,15 +1,14 @@
-#include <stdio.h>
-#include <locale.h>
-#include <stdlib.h>     /* srand, rand */
-#include <time.h>       /* time */
 /* 18. Implemente um programa que indique se um determinado número aleatório é
 divisível por 3. */
-/* como o enunciado é confuso, em (a) vou fazer para um número introduzido pelo
+
+/* como o enunciado é unclear, em (a) vou fazer para um número introduzido pelo
 utilizador e em (b) para um número aleatório */
 
-int main()
-{
-  setlocale(LC_ALL, "Portuguese");
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
 
   /* gera um número aleatório
   https://cplusplus.com/reference/cstdlib/rand/ */
