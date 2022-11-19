@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* transforma número de player no seu respectivo char na board*/
+/* transforma número de player no seu respectivo char na board */
 char playerToChar(int player) {
     switch (player){
         case 1: return 'X';
