@@ -92,4 +92,4 @@
 ### Exercícios extra
 |LINK|ENUNCIADO|
 |-:|:-|
-| [m4.c](./primeiro-ano/primeiro-semestre/extra/m4.c) | Escreva duas funções que desenham triangulos (usando o caracter \#). O resultado da invocação dessas funcões com um argumento 5 deverá ser o seguinte:<br><br>\#<br>\#\#<br>\#\#\#<br>\#\#\#\#<br>\#\#\#\#\#<br>\#\#\#\#<br>\#\#\#<br>\#\#<br>\#<br><br><br>    \#<br>   \#\#\#<br>  \#\#\#\#\#<br> \#\#\#\#\#\#\#<br>\#\#\#\#\#\#\#\#\# |
+| [m4.c](./primeiro-ano/primeiro-semestre/extra/m4.c) | ![Screenshot do exercício: "Escreva duas funções que desenham triangulos (usando o caracter #)"](https://i.imgur.com/W8xnHpr.png) |
