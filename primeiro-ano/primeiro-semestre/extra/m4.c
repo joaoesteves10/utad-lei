@@ -1,3 +1,20 @@
+/* EXTRA. Escreva duas funções que desenham triangulos (usando o caracter #). O resultado da invocação dessas funcões com um argumento 5 deverá ser o seguinte:
+
+#
+##
+###
+####
+#####
+####
+###
+##
+#
+    #
+   ###
+  #####
+ #######
+######### */
+
 #include <stdio.h>
 
 void triangulo_vert(int x) {

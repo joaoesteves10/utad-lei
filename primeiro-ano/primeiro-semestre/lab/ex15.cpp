@@ -1,5 +1,4 @@
-/* 15. Escreva um programa que calcule o maior valor da soma dos primeiros n números naturais cujo valor
-da soma ainda seja inferior a 2000. */
+/* 15. Escreva um programa que calcule o maior valor da soma dos primeiros n números naturais cujo valor da soma ainda seja inferior a 2000. */
 
 #include <stdio.h>
 

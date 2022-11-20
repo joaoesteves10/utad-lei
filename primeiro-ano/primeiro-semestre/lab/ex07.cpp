@@ -1,5 +1,4 @@
-/* 7. Escreva um programa que calcule as raízes de uma equação de segundo grau.
-Considere a=3, b=11 e c=2. */
+/* 7. Escreva um programa que calcule as raízes de uma equação de segundo grau. Considere a=3, b=11 e c=2. */
 
 #include <stdio.h>
 #include <math.h>

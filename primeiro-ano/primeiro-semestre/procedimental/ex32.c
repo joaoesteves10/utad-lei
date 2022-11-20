@@ -1,6 +1,5 @@
-/* 32. Dada uma série de 20 valores reais, implemente um programa que calcule
-e escreva a média aritmética destes valores. Entretanto se a média obtida for
-maior que 20 deverá ser atribuído o valor 20 para a média. */
+/* 32. Dada uma série de 20 valores reais, implemente um programa que calcule e escreva a média aritmética destes valores.
+Entretanto se a média obtida for maior que 20 deverá ser atribuído o valor 20 para a média. */
 
 #include <stdio.h>
 

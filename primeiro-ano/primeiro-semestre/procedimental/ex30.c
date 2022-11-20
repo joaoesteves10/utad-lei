@@ -1,5 +1,4 @@
-/* 30. Implemente um programa que leia 30 números inteiros positivos e visualize
-o menor deles. */
+/* 30. Implemente um programa que leia 30 números inteiros positivos e visualize o menor deles. */
 
 #include <stdio.h>
 

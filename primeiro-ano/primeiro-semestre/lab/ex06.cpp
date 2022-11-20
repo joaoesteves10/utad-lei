@@ -1,5 +1,4 @@
-/* 6. Escreva um programa que peça ao utilizador um valor em dias e os converta
-para anos, semanas e dias (suponha que não existem anos bissextos). */
+/* 6. Escreva um programa que peça ao utilizador um valor em dias e os converta para anos, semanas e dias (suponha que não existem anos bissextos). */
 
 #include <stdio.h>
 

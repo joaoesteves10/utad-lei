@@ -1,6 +1,5 @@
-/* 46. Implemente um programa que calcule o maior de 3 números reais inseridos
-pelo utilizador. Implemente para o efeito uma função que calcule/retorne o
-maior de dois valores reais. */
+/* 46. Implemente um programa que calcule o maior de 3 números reais inseridos pelo utilizador. 
+Implemente para o efeito uma função que calcule/retorne o maior de dois valores reais. */
 
 #include <stdio.h>
 

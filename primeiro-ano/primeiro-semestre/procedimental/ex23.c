@@ -1,6 +1,5 @@
-/* 23. Implemente um programa que faça uma conversão entre Euros e Dólares ou
-vice-versa consoante a preferência do utilizador. O utilizador deve primeiro
-escolher o tipo de conversão e depois inserir o valor a converter.
+/* 23. Implemente um programa que faça uma conversão entre Euros e Dólares ou vice-versa consoante a preferência do utilizador.
+O utilizador deve primeiro escolher o tipo de conversão e depois inserir o valor a converter.
 1,00 € = 1,16 $ */
 
 #include <stdio.h>

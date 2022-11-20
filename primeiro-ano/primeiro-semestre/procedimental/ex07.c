@@ -1,9 +1,6 @@
-/* 7. O preço de um automóvel é calculado pela soma do preço de fábrica com o
-preço dos impostos (45% do preço de fábrica) e a percentagem do revendedor
-(28% do preço de fábrica).
+/* 7. O preço de um automóvel é calculado pela soma do preço de fábrica com o preço dos impostos (45% do preço de fábrica) e a percentagem do revendedor (28% do preço de fábrica).
 
-Implemente um programa que leia o nome do automóvel e o preço de fábrica e que
-imprima o nome do automóvel e o preço final. */
+Implemente um programa que leia o nome do automóvel e o preço de fábrica e que imprima o nome do automóvel e o preço final. */
 
 #include <stdio.h>
 

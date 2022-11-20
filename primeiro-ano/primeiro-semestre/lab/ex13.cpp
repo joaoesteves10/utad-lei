@@ -1,5 +1,4 @@
-/* 13. Um grupo de 20 alunos fez um exame. Escreva um programa que apresente no ecrã o número de
-alunos que passaram no exame (>= 9,5). */
+/* 13. Um grupo de 20 alunos fez um exame. Escreva um programa que apresente no ecrã o número de alunos que passaram no exame (>= 9,5). */
 
 #include <stdio.h>
 # define N 20

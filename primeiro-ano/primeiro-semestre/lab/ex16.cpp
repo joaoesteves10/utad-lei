@@ -1,5 +1,5 @@
 /* 16. Escreva um programa que gere aleatoriamente um inteiro de 3 dígitos e de seguida o inverta.
-Exemplo:259 deve ficar 952. */
+Exemplo: 259 deve ficar 952. */
 
 #include <stdio.h>
 #include <stdlib.h>

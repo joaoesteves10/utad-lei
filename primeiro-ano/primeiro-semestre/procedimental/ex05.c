@@ -1,5 +1,5 @@
-/* 5. Implemente um programa que peça ao utilizador os valores da base e da altura
-de um triângulo. Em seguida, apresente a área do mesmo.
+/* 5. Implemente um programa que peça ao utilizador os valores da base e da altura de um triângulo. Em seguida, apresente a área do mesmo.
+
 Obs.: Área = (Base * Altura) / 2. */
 
 #include <stdio.h>

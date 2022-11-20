@@ -1,5 +1,4 @@
-/* 24. Implemente um programa que permita efetuar a soma dos 180 primeiros
-números inteiros positivos. */
+/* 24. Implemente um programa que permita efetuar a soma dos 180 primeiros números inteiros positivos. */
 
 #include <stdio.h>
 

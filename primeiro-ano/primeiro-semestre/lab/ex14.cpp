@@ -1,5 +1,4 @@
-/* 14. Escreva um programa que calcule mn utilizando ciclos. Os valores de m e n devem ser inteiros e
-introduzidos através do teclado. */
+/* 14. Escreva um programa que calcule mn utilizando ciclos. Os valores de m e n devem ser inteiros e introduzidos através do teclado. */
 
 #include <stdio.h>
 

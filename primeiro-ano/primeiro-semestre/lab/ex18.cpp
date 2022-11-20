@@ -1,5 +1,4 @@
-/* 18. Escreva um programa que calcule o valor do fatorial de um número natural
-n introduzido através do teclado. */
+/* 18. Escreva um programa que calcule o valor do fatorial de um número natural n introduzido através do teclado. */
 
 #include <stdio.h>
 

@@ -1,5 +1,4 @@
-/* 23. Escreva um programa que inverta uma sequência de caracteres. Exemplo: “LABINF” deve ficar
-“FNIBAL”. */
+/* 23. Escreva um programa que inverta uma sequência de caracteres. Exemplo: “LABINF” deve ficar “FNIBAL”. */
 
 #include <stdio.h>
 #include <string.h>

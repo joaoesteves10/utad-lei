@@ -1,5 +1,4 @@
-/* 25. Escreva um programa que preencha aleatoriamente (com valores entre 0 e 10) uma matriz de 10x10
-e calcule e mostre no ecrã a soma de cada uma das suas linhas e de cada uma das suas colunas. */
+/* 25. Escreva um programa que preencha aleatoriamente (com valores entre 0 e 10) uma matriz de 10x10 e calcule e mostre no ecrã a soma de cada uma das suas linhas e de cada uma das suas colunas. */
 
 #include <stdio.h>
 #include <stdlib.h>

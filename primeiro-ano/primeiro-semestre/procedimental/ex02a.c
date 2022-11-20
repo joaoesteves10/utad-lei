@@ -1,7 +1,6 @@
-/* 2. Implemente um programa que permita calcular o perímetro e a área de um
-retângulo (Área=altura*base), com:
->> a) altura=3 cm e base=8 cm.
-b) o valor das variáveis a ser pedido ao utilizador. */
+/* 2. Implemente um programa que permita calcular o perímetro e a área de um retângulo (Área=altura*base), com: 
+
+>> a) altura=3 cm e base=8 cm. */
 
 #include <stdio.h>
 

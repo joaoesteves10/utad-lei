@@ -1,5 +1,5 @@
-/* 6. Implemente um programa que peça ao utilizador um nome completo, e o
-escreva no ecrã. Considere um máximo de 20 carateres para o nome.
+/* 6. Implemente um programa que peça ao utilizador um nome completo, e o escreva no ecrã. Considere um máximo de 20 carateres para o nome.
+
 Exemplo: Ana Santos */
 
 #include <stdio.h>

@@ -1,10 +1,8 @@
-/* EXTRA. Escreva um programa que leia um inteiro introduzido através do teclado
-e determine se se ele é divisível por 2, 3 e 5.
+/* EXTRA. Escreva um programa que leia um inteiro introduzido através do teclado e determine se se ele é divisível por 2, 3 e 5.
 
 Por exemplo, para o número 2 o programa deve retornar que ele é divisível por 2.
-Enquanto para o número 6, que ele é divisível por 2 e 3. Para o 30, que ele é
-divisível por 2, 3, 5. Enquanto, caso o número dado seja o 11, que ele não é
-divisível por nenhum dos três! */
+Enquanto para o número 6, que ele é divisível por 2 e 3. Para o 30, que ele é divisível por 2, 3, 5.
+Enquanto, caso o número dado seja o 11, que ele não é divisível por nenhum dos três! */
 
 #include <stdio.h>
 

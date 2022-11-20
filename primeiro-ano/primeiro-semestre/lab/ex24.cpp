@@ -1,5 +1,4 @@
-/* 24. Escreva um programa que leia através do teclado os elementos de um vetor de tamanho N e calcule
-a sua soma, média e os valores máximo e mínimo. */
+/* 24. Escreva um programa que leia através do teclado os elementos de um vetor de tamanho N e calcule a sua soma, média e os valores máximo e mínimo. */
 
 #include <stdio.h>
 #include <stdlib.h>

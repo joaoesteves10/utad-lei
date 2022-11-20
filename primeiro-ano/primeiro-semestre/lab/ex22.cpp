@@ -1,5 +1,4 @@
-/* 22. Escreva um programa que leia através do teclado os elementos de um vetor de tamanho N e os
-apresente no ecrã pela ordem inversa. */
+/* 22. Escreva um programa que leia através do teclado os elementos de um vetor de tamanho N e os apresente no ecrã pela ordem inversa. */
 
 #include <stdio.h>
 #define N 10

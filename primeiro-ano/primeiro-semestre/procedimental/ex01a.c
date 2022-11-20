@@ -1,7 +1,6 @@
-/* 1. Implemente um programa que permita calcular a área de um quadrado.
-(Área=Lado*Lado), visualizando o resultado obtido, com:
->> a) Lado = 5 cm.
-b) o valor do lado deverá ser pedido ao utilizador. */
+/* 1. Implemente um programa que permita calcular a área de um quadrado (Área=Lado*Lado), visualizando o resultado obtido, com:
+
+>> a) Lado = 5 cm. */
 
 #include <stdio.h>
 #include <locale.h>

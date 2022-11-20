@@ -1,7 +1,5 @@
-/* Escreva um programa que simule uma máquina de calcular simples. Crie um
-menu e use obrigatoriamente funções. (primeira versão: adição, multiplicação,
-subtração e divisão; depois atualizar com fatorial, potencia, seno, cosseno, raiz
-quadrada) */
+/* Escreva um programa que simule uma máquina de calcular simples. Crie um menu e use obrigatoriamente funções.
+(primeira versão: adição, multiplicação, subtração e divisão; depois atualizar com fatorial, potencia, seno, cosseno, raiz quadrada) */
 
 #include <stdio.h>
 #include <stdlib.h>

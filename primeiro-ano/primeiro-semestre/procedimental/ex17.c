@@ -1,5 +1,4 @@
-/* 17. Implemente um programa que, de entre três números fornecidos pelo
-utilizador, permita encontrar o maior deles. */
+/* 17. Implemente um programa que, de entre três números fornecidos pelo utilizador, permita encontrar o maior deles. */
 
 #include <stdio.h>
 

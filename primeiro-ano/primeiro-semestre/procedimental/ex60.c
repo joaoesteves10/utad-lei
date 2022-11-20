@@ -1,6 +1,4 @@
-/* 60. Escreva o código de um programa que peça ao utilizador para introduzir o
-nome e o sobrenome e que construa e apresente no ecrã uma string com o nome
-completo. */
+/* 60. Escreva o código de um programa que peça ao utilizador para introduzir o nome e o sobrenome e que construa e apresente no ecrã uma string com o nome completo. */
 
 #include <stdio.h>
 #include <string.h>

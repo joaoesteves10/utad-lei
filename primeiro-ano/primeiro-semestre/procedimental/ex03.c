@@ -1,5 +1,4 @@
-/* 3. Implemente um programa que permita somar dois quaisquer números,
-visualizando o resultado obtido. */
+/* 3. Implemente um programa que permita somar dois quaisquer números, visualizando o resultado obtido. */
 
 #include <stdio.h>
 

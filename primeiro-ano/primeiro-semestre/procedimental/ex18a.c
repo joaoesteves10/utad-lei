@@ -1,8 +1,6 @@
-/* 18. Implemente um programa que indique se um determinado número aleatório é
-divisível por 3. */
+/* 18. Implemente um programa que indique se um determinado número é divisível por 3. */
 
-/* como o enunciado é unclear, em (a) vou fazer para um número introduzido pelo
-utilizador e em (b) para um número aleatório */
+/* como o enunciado é unclear, em (a) vou fazer para um número introduzido pelo utilizador e em (b) para um número aleatório */
 
 #include <stdio.h>
 

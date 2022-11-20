@@ -1,14 +1,11 @@
-/* 11. Uma empresa de telecomunicações cobra a utilização de uma linha dedicada
-para transmissão de dados de acordo com a duração dessa utilização, segundo a
-seguinte tabela de preços:
+/* 11. Uma empresa de telecomunicações cobra a utilização de uma linha dedicada para transmissão de dados de acordo com a duração dessa utilização, segundo a seguinte tabela de preços:
 
 Tempo de utilização   |   Preço
 1ª hora               |   2 cent./min.
 2ª hora à 6ª hora     |   1 cent./min.
 7ª hora à 24ª hora    |   30 cent./hora
 
-Escreva um programa que, partindo dos valores de início e fim da utilização
-(hora, minutos e segundos) calcule o valor a ser cobrado. */
+Escreva um programa que, partindo dos valores de início e fim da utilização (hora, minutos e segundos) calcule o valor a ser cobrado. */
 
 #include <stdio.h>
 #include <math.h>

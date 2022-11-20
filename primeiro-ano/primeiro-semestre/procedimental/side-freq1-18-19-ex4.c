@@ -1,12 +1,8 @@
 /* FREQUÊNCIA 1 DE PROGRAMAÇÃO PROCEDIMENTAL, 2018/2019; ENUNCIADO DISPONÍVEL NO SIDE
 
-4. Faça um subprograma que tenha como parâmetros de entrada e saída: o endereço de um vetor de
-números inteiros e o número de elementos desse vetor. O subprograma deve eliminar do vetor todos
-os valores que estejam fora do intervalo entre 10 e 20, recolocando os valores dentro do vetor e
-ajustando o número de elementos do vetor.
+4. Faça um subprograma que tenha como parâmetros de entrada e saída: o endereço de um vetor de números inteiros e o número de elementos desse vetor. O subprograma deve eliminar do vetor todos os valores que estejam fora do intervalo entre 10 e 20, recolocando os valores dentro do vetor e ajustando o número de elementos do vetor.
 
-Exemplo: entra o vetor [2,13,10,4,20,17,5,12,10,3] com 10 elementos e sai o vetor
-[13,10,20,17,12,10] com 6 elementos. */
+Exemplo: entra o vetor [2,13,10,4,20,17,5,12,10,3] com 10 elementos e sai o vetor [13,10,20,17,12,10] com 6 elementos. */
 
 #include <stdlib.h>
 #include <stdio.h>

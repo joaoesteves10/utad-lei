@@ -1,5 +1,4 @@
-/* 4. Escreva um programa que leia através do teclado valores de velocidades em
-Km/h e os converta para m/s. */
+/* 4. Escreva um programa que leia através do teclado valores de velocidades em Km/h e os converta para m/s. */
 
 #include <stdio.h>
 

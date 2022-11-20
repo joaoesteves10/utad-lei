@@ -1,5 +1,4 @@
-/* 28. Implemente um programa que permita aceitar um valor numérico que apenas
-pode ser positivo. Se não for positivo deve insistir na leitura. */
+/* 28. Implemente um programa que permita aceitar um valor numérico que apenas pode ser positivo. Se não for positivo deve insistir na leitura. */
 
 #include <stdio.h>
 

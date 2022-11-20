@@ -1,6 +1,5 @@
-/* 12. Escreva um programa que determine se um ano, introduzido através do
-teclado, é bissexto. Um ano é bissexto quando é divisível por 4, exceto se for
-divisível por 100 a não ser que também seja divisível por 400. */
+/* 12. Escreva um programa que determine se um ano, introduzido através do teclado, é bissexto.
+Um ano é bissexto quando é divisível por 4, exceto se for divisível por 100 a não ser que também seja divisível por 400. */
 
 #include <stdio.h>
 

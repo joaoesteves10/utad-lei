@@ -1,5 +1,4 @@
-/* 16. Implemente um programa que, de entre dois números fornecidos pelo
-utilizador, permita encontrar o menor deles. */
+/* 16. Implemente um programa que, de entre dois números fornecidos pelo utilizador, permita encontrar o menor deles. */
 
 #include <stdio.h>
 

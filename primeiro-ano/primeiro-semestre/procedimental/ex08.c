@@ -1,13 +1,11 @@
-/* 8. Uma empresa tem para um determinado funcionário uma ficha contendo o nome,
-número de horas trabalhadas e o número de dependentes de um funcionário.
+/* 8. Uma empresa tem para um determinado funcionário uma ficha contendo o nome, número de horas trabalhadas e o número de dependentes de um funcionário.
+
 Considere que:
 • A empresa paga 12 euros por hora e 40 euros por cada dependente.
 • Sobre o salário são feitos descontos de 8,5% para o INSS e 5% para IRS.
 
-Faça um algoritmo e implemente um programa para ler o nome, o número de horas
-trabalhadas e o número de dependentes de um funcionário. Após a leitura, escreva
-qual o nome, o salário bruto, os valores descontados para cada tipo de imposto e
-finalmente qual o salário líquido do funcionário. */
+Faça um algoritmo e implemente um programa para ler o nome, o número de horas trabalhadas e o número de dependentes de um funcionário.
+Após a leitura, escreva qual o nome, o salário bruto, os valores descontados para cada tipo de imposto e finalmente qual o salário líquido do funcionário. */
 
 #include <stdio.h>
 

@@ -1,5 +1,4 @@
-/* 8. Escreva um programa que leia um inteiro introduzido através do teclado e
-determine se ele é par ou impar. */
+/* 8. Escreva um programa que leia um inteiro introduzido através do teclado e determine se ele é par ou impar. */
 
 #include <stdio.h>
 

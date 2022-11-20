@@ -1,5 +1,4 @@
-/* 25. Implemente um programa que permita calcular a soma dos 20 primeiros
-números pares positivos. */
+/* 25. Implemente um programa que permita calcular a soma dos 20 primeiros números pares positivos. */
 
 #include <stdio.h>
 

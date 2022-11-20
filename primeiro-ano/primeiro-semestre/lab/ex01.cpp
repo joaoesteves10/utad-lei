@@ -1,5 +1,4 @@
-/* 1. Escreva um programa que calcule e apresente no ecrã o perímetro e a área
-de um retângulo com 7 cm de altura e 5 cm de comprimento. */
+/* 1. Escreva um programa que calcule e apresente no ecrã o perímetro e a área de um retângulo com 7 cm de altura e 5 cm de comprimento. */
 
 #include <stdio.h>
 
