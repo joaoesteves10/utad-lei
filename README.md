@@ -1,8 +1,8 @@
 # :)
 
-||1º SEMESTRE|
+|🔗|1º SEMESTRE|
 |-:|--|
-|**1º ANO**| [🔗](#1º-ano-1º-semestre) <br> [Laboratório de informática e computadores](#laboratório-de-informática-e-computadores-14205) <br> [Programação procedimental](#programação-procedimental-14202) <br> [Exercícios extra](#exercícios-extra) |
+|**1º ANO**| [Laboratório de informática e computadores](#laboratório-de-informática-e-computadores-14205) <br> [Programação procedimental](#programação-procedimental-14202) <br> [Exercícios extra](#exercícios-extra) |
 
 ## 1º Ano, 1º Semestre
 ###  Laboratório de informática e computadores (14205)
