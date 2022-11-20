@@ -1,4 +1,4 @@
-/* O seguinte programa lê N valores para um vetor e apresenta ao utilizador um menu que permite escolher entre as operações de soma e média (com outra qualquer opção sai). */
+/* O programa lê N valores para um vetor e apresenta ao utilizador um menu que permite escolher entre as operações de soma e média (com outra qualquer opção sai). */
 
 /* como isto é de um momento de avaliação, pode não estar 100% certo, mas deve compilar e funcionar minimamente. */
 
