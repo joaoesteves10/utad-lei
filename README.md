@@ -1,5 +1,9 @@
 # :)
 
+||1º SEMESTRE|
+|-:|--|
+|**1º ANO**| [🔗](#1º-ano-1º-semestre) <br> [Laboratório de informática e computadores](#laboratório-de-informática-e-computadores-14205) <br> [Programação procedimental](#programação-procedimental-14202) <br> [Exercícios extra](#exercícios-extra) |
+
 ## 1º Ano, 1º Semestre
 ###  Laboratório de informática e computadores (14205)
 |LINK|ENUNCIADO|
@@ -83,7 +87,7 @@
 | [side-freq1-18-19-ex4.c](./primeiro-ano/primeiro-semestre/procedimental/side-freq1-18-19-ex4.c) | FREQUÊNCIA 1 DE PROGRAMAÇÃO PROCEDIMENTAL, 2018/2019; ENUNCIADO DISPONÍVEL NO SIDE<br><br>4. Faça um subprograma que tenha como parâmetros de entrada e saída: o endereço de um vetor de números inteiros e o número de elementos desse vetor. O subprograma deve eliminar do vetor todos os valores que estejam fora do intervalo entre 10 e 20, recolocando os valores dentro do vetor e ajustando o número de elementos do vetor.<br><br>Exemplo: entra o vetor [2,13,10,4,20,17,5,12,10,3] com 10 elementos e sai o vetor [13,10,20,17,12,10] com 6 elementos. |
 | [teorica17-11.c](./primeiro-ano/primeiro-semestre/procedimental/teorica17-11.c) | EXERCÍCIO DA AULA TEÓRICA DE PROGRAMAÇÃO PROCEDIMENTAL DO DIA 17/11/2022: BANCO<br><br>n movimentos bancários<br>créditos -> dinheiro que entrou na conta<br>débitos -> dinheiro que saiu da conta<br>média -> média dos movimentos todos<br>saldo -> creditos - debitos |
 
-### Exercícios extra (-----)
+### Exercícios extra
 |LINK|ENUNCIADO|
 |-:|:-|
 | [m4.c](./primeiro-ano/primeiro-semestre/extra/m4.c) | Escreva duas funções que desenham triangulos (usando o caracter \#). O resultado da invocação dessas funcões com um argumento 5 deverá ser o seguinte:<br><br>\#<br>\#\#<br>\#\#\#<br>\#\#\#\#<br>\#\#\#\#\#<br>\#\#\#\#<br>\#\#\#<br>\#\#<br>\#<br><br><br>    \#<br>   \#\#\#<br>  \#\#\#\#\#<br> \#\#\#\#\#\#\#<br>\#\#\#\#\#\#\#\#\# |
