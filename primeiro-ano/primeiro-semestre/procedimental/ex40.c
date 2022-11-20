@@ -1,5 +1,5 @@
 /* 40. Implemente um programa que calcule a média de uma sequência, de valores reais, terminada por ‘-1’.
-O programa deve apresentar igualmente o número de valores introduzidos */
+O programa deve apresentar igualmente o número de valores introduzidos. */
 
 #include <stdio.h>
 

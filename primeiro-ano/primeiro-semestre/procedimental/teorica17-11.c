@@ -1,4 +1,5 @@
 /* EXERCÍCIO DA AULA TEÓRICA DE PROGRAMAÇÃO PROCEDIMENTAL DO DIA 17/11/2022: BANCO
+
 n movimentos bancários
 créditos -> dinheiro que entrou na conta
 débitos -> dinheiro que saiu da conta

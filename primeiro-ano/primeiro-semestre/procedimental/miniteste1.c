@@ -1,6 +1,5 @@
-/* Complete o programa abaixo o qual calcula e visualiza a resolução em megapixels de uma fotografia com base na sua
-dimensão em pixels (largura x altura). O programa mostra a resolução caso seja superior a 12 megapixels, caso contrário
-mostra a mensagem "Resolução baixa!".
+/* Complete o programa abaixo o qual calcula e visualiza a resolução em megapixels de uma fotografia com base na sua dimensão em pixels (largura x altura).
+O programa mostra a resolução caso seja superior a 12 megapixels, caso contrário mostra a mensagem "Resolução baixa!".
 
 1 megapixel = 1000000 pixels */
 

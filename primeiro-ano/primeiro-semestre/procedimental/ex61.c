@@ -1,4 +1,5 @@
 /* 61. Escreva o código de um programa que peça ao utilizador para introduzir uma string e que apresente no ecrã a string escrita “ao contrário”.
+
 Exemplo : “Universidade” deve ser escrito como “edadisrevinU”. */
 
 #include <stdio.h>

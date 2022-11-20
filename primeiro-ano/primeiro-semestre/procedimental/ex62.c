@@ -1,4 +1,5 @@
 /* 62. Escreva o código de um programa que permita a introdução de uma string e que escreva no ecrã a sigla representativa dessa string.
+
 Exemplo : “World Wide Web” -> “WWW”. */
 
 #include <stdio.h>
