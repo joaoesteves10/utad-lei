@@ -9,14 +9,14 @@ b. MostrarVetor. */
 
 void LerVetor(int *vetor){
   for (int i=0; i<N; i++) {
-    printf("%dº valor: ", i);
+    printf("V[%d]: ", i);
     scanf_s("%d", &vetor[i]);
   }
 }
 
 void MostrarVetor(int *vetor) {
   for (int i = 0; i<N; i++){
-    printf("%d ", vetor[i]);
+    printf("%d; ", vetor[i]);
   }
 }
 
