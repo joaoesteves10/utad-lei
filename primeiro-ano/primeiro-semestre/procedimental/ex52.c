@@ -1,7 +1,6 @@
 /* 52. Crie um programa que armazene num vetor 10 nomes completos. */
 
 #include <stdio.h>
-#include <string.h>
 
 int main() {
 
