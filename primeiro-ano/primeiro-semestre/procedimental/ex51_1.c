@@ -3,7 +3,7 @@
 a. LerVetor,
 b. MostrarVetor. 
 
-O programa deve usar alocação dinâmica de memória (o user deve introduzir o número de elementos do vetor, N)*/
+O programa deve usar alocação dinâmica de memória (o user deve introduzir o número de elementos do vetor, N) */
 
 #include <stdio.h>
 #include <stdlib.h>
